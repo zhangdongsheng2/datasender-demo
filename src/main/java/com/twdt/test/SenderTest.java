@@ -1,8 +1,8 @@
 package com.twdt.test;
 
 
-import com.twdt.receive.ConnectConfig;
-import com.twdt.receive.ServerConnectorUtil;
+import com.twdt.sender.ConnectConfig;
+import com.twdt.sender.ServerConnectorUtil;
 
 public class SenderTest {
 

@@ -1,7 +1,6 @@
 package com.twdt.consumer;
 
-import cn.hutool.core.io.resource.FileResource;
-import com.twdt.snerder.ProducerConfig;
+import com.twdt.receive.ProducerConfig;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

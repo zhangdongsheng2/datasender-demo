@@ -1,7 +1,7 @@
 package com.twdt.consumer;
 
-import com.twdt.receive.ConnectConfig;
-import com.twdt.receive.ServerConnectorUtil;
+import com.twdt.sender.ConnectConfig;
+import com.twdt.sender.ServerConnectorUtil;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;

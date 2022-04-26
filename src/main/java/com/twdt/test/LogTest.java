@@ -1,7 +1,7 @@
 package com.twdt.test;
 
 
-import com.twdt.receive.ServerConnectorUtil;
+import com.twdt.sender.ServerConnectorUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

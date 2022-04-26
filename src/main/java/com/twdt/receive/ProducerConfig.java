@@ -1,6 +1,4 @@
-package com.twdt.snerder;
-
-import cn.hutool.core.io.resource.FileResource;
+package com.twdt.receive;
 
 import java.io.BufferedReader;
 import java.io.IOException;

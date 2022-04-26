@@ -1,7 +1,7 @@
-package com.twdt.snerder;
+package com.twdt.receive;
 
 
-import com.twdt.receive.ServerConnectorUtil;
+import com.twdt.sender.ServerConnectorUtil;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
 

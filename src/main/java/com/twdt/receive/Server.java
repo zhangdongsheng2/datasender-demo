@@ -1,4 +1,4 @@
-package com.twdt.snerder;
+package com.twdt.receive;
 
 import cn.hutool.core.convert.Convert;
 

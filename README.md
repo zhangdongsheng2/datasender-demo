@@ -9,3 +9,11 @@ Java Socker 转发Kafka数据工具
 # 需求
 * 需要两个Kafka集群实时同步数据. 
 
+
+# 目录简介
+* consumer : Kafka消费者相关.
+* receive : Socker服务端+Kafka生产者. 
+* sender : Socker客户端发送数据到服务端. 
+
+
+
