@@ -11,9 +11,13 @@ Java Socker 转发Kafka数据工具
 
 
 # 目录简介
-* consumer : Kafka消费者相关.
-* receive : Socker服务端+Kafka生产者. 
-* sender : Socker客户端发送数据到服务端. 
+```text
+com..
+  ├─consumer   //Kafka消费者相关.
+  ├─receive    //Socker服务端+Kafka生产者.
+  ├─sender     //Socker客户端发送数据到服务端.
+  └─test       //测试
+```
 
 
 
